@@ -23,9 +23,15 @@ Software Engineer
 
 ### 💻 Connect with me
 
-<img height="30" src="https://th.bing.com/th/id/OIP.lFopDUwfiDno8O5opvg-YQAAAA?rs=1&pid=ImgDetMain"/> (https://www.linkedin.com/in/sowmiya-g-2a362226a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-<img height="10" width="10" src="https://th.bing.com/th/id/OIP.mMzZ6OsYd7BWk4kSXGA70AHaHx?rs=1&pid=ImgDetMain">(https://www.instagram.com/sowmi_3589?igsh=eWVhcGRvZ3pxeWdw)
-<img height="10" width="10"src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8b9fc1fa-bb42-45c6-957b-3b6611c542f1.png?ixlib=react-9.0.3&ch=Width%2CDPR&auto=format&w=4088">(https://www.hackerrank.com/profile/sowmyag_it2022)
-<img height="10" width="10" src="https://th.bing.com/th/id/OIP.2AhrOZ6lYyFoZ85w5CLs1AAAAA?rs=1&pid=ImgDetMain">(https://www.codechef.com/users/sowmiyag123)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/Sowmiyag28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
+
+<a href="https://www.instagram.com/sowmi_3589?igsh=eWVhcGRvZ3pxeWdw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sowmiyag123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="lavanyaa78" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/sowmyag_it2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lavanyaa78" height="30" width="40" /></a>
+
+<a href="https://www.leetcode.com/Sowmiyag28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lavanyaa78" height="30" width="40" /></a>
+
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SowmiyaG123&theme=dark&show_icons=true&&hide=issues,contribs)
