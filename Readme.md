@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Sowmiya
 
 Software Engineer
-<img align="right" width="370" height="290" src="C:\Users\sowsr\OneDrive\Pictures\Screenshots\Screenshot (204).png" />
+<img align="right" width="370" height="290" src="C:\Users\sowsr\Downloads\Sowmiya G.png" />
 
 - 🌱 I’m currently learning DSA and AI
 - 👯 I’m looking to collaborate with MERN stack projects
@@ -26,11 +26,9 @@ Software Engineer
 <h3 align="left">Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/Sowmiyag28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
-
 <a href="https://www.instagram.com/sowmi_3589?igsh=eWVhcGRvZ3pxeWdw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sowmiyag123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/sowmyag_it2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"  height="30" width="40" /></a>
-
 <a href="https://leetcode.com/u/sowmiyag123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"  height="30" width="40" /></a>
 
 
